@@ -1,3 +1,5 @@
+<div align="center">
+          
 <h1 align="center" > Olá, eu sou Maxwel Silva 👋🏻</h1>
 <p align="center">
 Estou graduando em Sistemas de Informação, e estou estudando para ingressar no mundo de desenvolvimento como Desenvolvedor FullStack.       
@@ -78,3 +80,4 @@ Estou graduando em Sistemas de Informação, e estou estudando para ingressar no
  </div>
 
 #
+</div>
