@@ -25,7 +25,7 @@ Estou graduando em Sistemas de Informação, e estou estudando para ingressar no
  
 <h3 > 🌐 Vamos nos conectar </h3>
 
-<div style="display: inline-block;" >
+<div >
           
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxwelsilvas/)
 [![GitHub](https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxwelSilvas)
