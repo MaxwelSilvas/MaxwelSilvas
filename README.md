@@ -1,15 +1,15 @@
 <div align="center">
           
-<h1 align="center" > Olá, eu sou Maxwel Silva 👋🏻</h1>
-<p align="center">
+<h1 > Olá, eu sou Maxwel Silva 👋🏻</h1>
+<p">
 Estou graduando em Sistemas de Informação, e estou estudando para ingressar no mundo de desenvolvimento como Desenvolvedor FullStack.       
 </p>
 <br>
 
 
-<h3 align="center" >💻 Tecnologias </h3>
+<h3>💻 Tecnologias </h3>
 
-<div style="display: inline-block" align="center"> 
+<div style="display: inline-block"> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" width="50" /> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="60" width="50" /> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="60" width="50" /> 
@@ -23,9 +23,9 @@ Estou graduando em Sistemas de Informação, e estou estudando para ingressar no
 #
 <br>
  
-<h3 align="center" > 🌐 Vamos nos conectar </h3>
+<h3 > 🌐 Vamos nos conectar </h3>
 
-<div style="display: inline-block;" align="center" >
+<div style="display: inline-block;" >
           
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxwelsilvas/)
 [![GitHub](https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxwelSilvas)
@@ -34,9 +34,9 @@ Estou graduando em Sistemas de Informação, e estou estudando para ingressar no
 #
 <br>
 
-<h3 align="center" >  📚 Educação</h3>
+<h3>  📚 Educação</h3>
 
-<div align="center" >
+<div>
           
  **Graduação:** Sistemas de Informação - UNA - 2022 - 2026
  
@@ -49,15 +49,9 @@ Estou graduando em Sistemas de Informação, e estou estudando para ingressar no
 <h3 align="center" > 📊 Status</h3>
 
 <div style="display: inline-block;" align="center">
-          
-<div>   
-          
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxwelSilvas&show_icons=true&bg_color=000000&text_color=FFFFFF&title_color=FF0000&border_color=FF0000&icon_color=FF0000)
+        
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MaxwelSilvas&theme=dark&background=000000&border=FF0000&dates=FF0000&currStreakLabel=FF0000&fire=FF0000&ring=FF0000&sideNums=FFFFFF)](https://git.io/streak-stats)
-</div>
-
-<div align="center">
-                    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxwelSilvas&show_icons=true&bg_color=000000&text_color=FFFFFF&title_color=FF0000&border_color=FF0000&icon_color=FF0000)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaxwelSilvas&layout=compact&bg_color=000000&border_color=FF0000&title_color=FF0000&text_color=FFFFFF)
  </div>
 
