@@ -4,7 +4,7 @@
 <p">
 Estou graduando em Sistemas de Informação, e estou estudando para ingressar no mundo de desenvolvimento como Desenvolvedor FullStack.       
 </p>
-<br>
+
 
 
 <h3>💻 Tecnologias </h3>
@@ -21,7 +21,7 @@ Estou graduando em Sistemas de Informação, e estou estudando para ingressar no
 </div>
 
 #
-<br>
+
  
 <h3 > 🌐 Vamos nos conectar </h3>
 
@@ -32,7 +32,7 @@ Estou graduando em Sistemas de Informação, e estou estudando para ingressar no
 </div>
 
 #
-<br>
+
 
 <h3>  📚 Educação</h3>
 
@@ -43,8 +43,7 @@ Estou graduando em Sistemas de Informação, e estou estudando para ingressar no
  **Curso Profissionalizante:** Desenvolvedor FullStack Python- EBAC - 2023
 </div>
 
-#
-<br>
+
 
 <h3 align="center" > 📊 Status</h3>
 
@@ -62,7 +61,7 @@ Estou graduando em Sistemas de Informação, e estou estudando para ingressar no
 </div>
 
 #
-<br>
+
 
 <h3 align="center" > 📧 Contato</h3>
 
