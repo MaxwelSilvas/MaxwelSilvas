@@ -1,7 +1,7 @@
 Olá, eu sou Maxwel Silva, estou graduando em Sistemas de Informação, e estou estudando para ingressar no mundo de desenvolvimento como Desenvolvedor FullStack. 
 
-
-<div style="display: inline-block"> 
+#
+<div style="display: inline-block" align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="70" width="60" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="70" width="60" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="70" width="60" /> 
@@ -12,10 +12,10 @@ Olá, eu sou Maxwel Silva, estou graduando em Sistemas de Informação, e estou 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="70" width="60" /> 
           
 </div>
-          
 
 
 
+#
 
 ## 🌐 Vamos conectar
 
@@ -31,11 +31,14 @@ Olá, eu sou Maxwel Silva, estou graduando em Sistemas de Informação, e estou 
 
 <div style="display: inline-block; text-align: center;">
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaxwelSilvas&layout=compact&bg_color=000000&border_color=FF0000&title_color=FF0000&text_color=FFFFFF)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxwelSilvas&show_icons=true&bg_color=000000&text_color=FFFFFF&title_color=FF0000&border_color=FF0000&icon_color=FF0000)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MaxwelSilvas&theme=dark&background=000000&border=FF0000&dates=FF0000&currStreakLabel=FF0000&fire=FF0000&ring=FF0000&sideNums=FFFFFF)](https://git.io/streak-stats)
+          <div align="center">
+                    ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaxwelSilvas&layout=compact&bg_color=000000&border_color=FF0000&title_color=FF0000&text_color=FFFFFF)
+                   
+ </div>
+
+
 
 </div>
 
