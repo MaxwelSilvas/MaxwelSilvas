@@ -48,10 +48,12 @@ Estou graduando em Sistemas de Informação, e estou estudando para ingressar no
 
 <h3 align="center" > 📊 Status</h3>
 
-<div style="display: inline-block;" align="center">
+<div>
         
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MaxwelSilvas&theme=dark&background=000000&border=FF0000&dates=FF0000&currStreakLabel=FF0000&fire=FF0000&ring=FF0000&sideNums=FFFFFF)](https://git.io/streak-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxwelSilvas&show_icons=true&bg_color=000000&text_color=FFFFFF&title_color=FF0000&border_color=FF0000&icon_color=FF0000)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaxwelSilvas&layout=compact&bg_color=000000&border_color=FF0000&title_color=FF0000&text_color=FFFFFF)
  </div>
 
