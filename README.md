@@ -32,6 +32,8 @@ I'm a Systems Information undergraduate student, and I'm studying to enter the d
 
 **Professional Course:** FullStack Python Developer - EBAC - 2023
 </div>
+
+#
 <h3 align="center" > 📊 Status</h3>
 <div>
 
