@@ -48,7 +48,7 @@ I'm a Systems Information undergraduate student, and I'm studying to enter the d
 <h3 align="center" > 👤Contact</h3>
 <div style="display:" align="center">
 
- **Email:** [maxwel101@yahoo.com](mailto:maxwel101@yahoo.com)
+ **Email:** [maxwel101@outlook.com.br](mailto:maxwel101@outlook.com.br)
 
  **Phone:** +55 (34) 9 9667-6387
 
