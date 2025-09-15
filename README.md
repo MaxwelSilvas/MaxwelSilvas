@@ -41,7 +41,7 @@ I'm a Systems Information undergraduate student, and I'm studying to enter the d
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxwelSilvas&show_icons=true&bg_color=000000&text_color=FFFFFF&title_color=FF0000&border_color=FF0000&icon_color=FF0000)
 
-![Top Langs]([https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaxwelSilvas&layout=compact&bg_color=000000&border_color=FF0000&title_color=FF0000&text_color=FFFFFF](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwelSilvas&layout=compact&bg_color=000000&border_color=FF0000&title_color=FF0000&text_color=FFFFFF))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwelSilvas&layout=compact&bg_color=000000&border_color=FF0000&title_color=FF0000&text_color=FFFFFF)
 </div>
 
 #
