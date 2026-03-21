@@ -3,7 +3,7 @@
 <h1>Hello, I'm Maxwel Silva 👋🏻 </h1>
 <p>
 <b>Desenvolvedor Full Stack | Especialista em ChatBots & RPA</b> <br>
-[cite_start]Atualmente na <b>Callink</b>, focado no desenvolvimento de soluções automatizadas para o setor bancário, integrando fluxos inteligentes via WhatsApp e sistemas internos. [cite: 21, 24, 34]
+Atualmente na <b>Callink</b>, focado no desenvolvimento de soluções automatizadas para o setor bancário, integrando fluxos inteligentes via WhatsApp e sistemas internos.
 </p>
 
 ### 🛠️ Tecnologias & Ferramentas
@@ -35,9 +35,9 @@
 ---
 
 ### 📖 Formação Acadêmica
-* [cite_start]**Graduação:** Análise e Desenvolvimento de Sistemas – Uniube (2024 – 2026) [cite: 58]
-* [cite_start]**Curso Profissional:** Full Stack Python – EBAC (Concluído em 2024) [cite: 65]
-* [cite_start]**Certificações:** Especialista em Excel (VBA), Dashboards com Power BI e AWS [cite: 15, 17, 55]
+* **Graduação:** Análise e Desenvolvimento de Sistemas – Uniube (2024 – 2026)
+* **Curso Profissional:** Full Stack Python – EBAC (Concluído em 2024)
+* **Certificações:** Especialista em Excel (VBA), Dashboards com Power BI e AWS
 
 ---
 
@@ -56,7 +56,7 @@
 <h3 align="center">👤 Contato Direto</h3>
 <div align="center">
 
-[cite_start]**WhatsApp:** [+55 (34) 9 9667-6387](https://wa.me/5534996676387) [cite: 146]
+**WhatsApp:** [+55 (34) 9 9667-6387](https://wa.me/5534996676387)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaxwelSilvas/MaxwelSilvas/output/github-contribution-grid-snake-dark.svg">
