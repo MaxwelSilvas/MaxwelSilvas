@@ -2,7 +2,7 @@
 
 <h1>Hello, I'm Maxwel Silva 👋🏻 </h1>
 <p>
-<b>Desenvolvedor Full Stack | Especialista em ChatBots & RPA</b> <br>
+<b>Desenvolvedor Full Stack | Especialista em ChatBots & RPA</b><br>
 Atualmente na <b>Callink</b>, focado no desenvolvimento de soluções automatizadas para o setor bancário, integrando fluxos inteligentes via WhatsApp e sistemas internos.
 </p>
 
@@ -36,19 +36,19 @@ Atualmente na <b>Callink</b>, focado no desenvolvimento de soluções automatiza
 
 ### 📖 Formação Acadêmica
 * **Graduação:** Análise e Desenvolvimento de Sistemas – Uniube (2024 – 2026)
-* **Curso Profissional:** Full Stack Python – EBAC (Concluído em 2024)
-* **Certificações:** Especialista em Excel (VBA), Dashboards com Power BI e AWS
-
+* **Curso Profissional:** Full Stack Python – EBAC (2022 – 2024)
+  
 ---
 
-<h3 align="center">📊 Status & Contribuições</h3>
-<div>
+<h3 align="center">📊 Atividade & Performance</h3>
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MaxwelSilvas&theme=dark&background=000000&border=FF0000&dates=FF0000&currStreakLabel=FF0000&fire=FF0000&ring=FF0000&sideNums=FFFFFF)](https://git.io/streak-stats)
+![MaxwelSilvas's Stats](https://github-readme-stats.vercel.app/api?username=MaxwelSilvas&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![MaxwelSilvas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaxwelSilvas&theme=dracula&hide_border=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxwelSilvas&show_icons=true&bg_color=000000&text_color=FFFFFF&title_color=FF0000&border_color=FF0000&icon_color=FF0000)
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwelSilvas&layout=compact&bg_color=000000&border_color=FF0000&title_color=FF0000&text_color=FFFFFF)
+![MaxwelSilvas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwelSilvas&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 ---
@@ -57,6 +57,8 @@ Atualmente na <b>Callink</b>, focado no desenvolvimento de soluções automatiza
 <div align="center">
 
 **WhatsApp:** [+55 (34) 9 9667-6387](https://wa.me/5534996676387)
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaxwelSilvas/MaxwelSilvas/output/github-contribution-grid-snake-dark.svg">
