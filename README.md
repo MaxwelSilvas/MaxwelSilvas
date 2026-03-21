@@ -45,9 +45,6 @@ Atualmente na <b>Callink</b>, focado no desenvolvimento de soluções automatiza
 
 ![MaxwelSilvas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaxwelSilvas&theme=dracula&hide_border=true)
 ![MaxwelSilvas's Stats](https://github-readme-stats.vercel.app/api?username=MaxwelSilvas&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-
-<br>
-
 ![MaxwelSilvas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwelSilvas&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 </div>
 
