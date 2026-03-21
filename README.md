@@ -43,8 +43,8 @@ Atualmente na <b>Callink</b>, focado no desenvolvimento de soluções automatiza
 <h3 align="center">📊 Atividade & Performance</h3>
 <div align="center">
 
-![MaxwelSilvas's Stats](https://github-readme-stats.vercel.app/api?username=MaxwelSilvas&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![MaxwelSilvas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaxwelSilvas&theme=dracula&hide_border=true)
+![MaxwelSilvas's Stats](https://github-readme-stats.vercel.app/api?username=MaxwelSilvas&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 <br>
 
